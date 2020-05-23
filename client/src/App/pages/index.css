@@ -1,0 +1,25 @@
+.Window_Container {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.Label_Input_box {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+.Container-Whole {
+    width: 100%;
+    height: 80vh;
+    border: 2px coral solid;
+    
+}
+.Container_top_buttons {
+    display: flex;
+    justify-content: space-between;
+    border: 2px cornflowerblue solid;
+    
+}
+.Inside_Table {
+    font-size: small;
+}
